@@ -20,6 +20,15 @@ Source: L<https://www.ef.com/wwen/english-resources/english-vocabulary/top-1000-
 =cut
 
 __DATA__
+American
+Congress
+Democrat
+I
+Mr
+Mrs
+PM
+Republican
+TV
 a
 ability
 able
@@ -59,7 +68,6 @@ already
 also
 although
 always
-American
 among
 amount
 analysis
@@ -197,7 +205,6 @@ computer
 concern
 condition
 conference
-Congress
 consider
 consumer
 contain
@@ -232,7 +239,6 @@ decision
 deep
 defense
 degree
-Democrat
 democratic
 describe
 design
@@ -420,7 +426,6 @@ huge
 human
 hundred
 husband
-I
 idea
 identify
 if
@@ -555,13 +560,12 @@ mouth
 move
 movement
 movie
-Mr
-Mrs
 much
 music
 must
 my
 myself
+n't
 name
 nation
 national
@@ -588,7 +592,6 @@ note
 nothing
 notice
 now
-n't
 number
 occur
 of
@@ -657,7 +660,6 @@ plan
 plant
 play
 player
-PM
 point
 police
 policy
@@ -733,7 +735,6 @@ remember
 remove
 report
 represent
-Republican
 require
 research
 resource
@@ -940,7 +941,6 @@ true
 truth
 try
 turn
-TV
 two
 type
 under
