@@ -13,9 +13,13 @@ our @ISA = qw(WordList);
 1;
 # ABSTRACT: 1000 most common English words, from EF
 
-=head1 SEE ALSO
+=head1 DESCRIPTION
 
 Source: L<https://www.ef.com/wwen/english-resources/english-vocabulary/top-1000-words/>
+
+=head1 SEE ALSO
+
+L<WordList::EN::Common::EF::Top3000>
 
 =cut
 
